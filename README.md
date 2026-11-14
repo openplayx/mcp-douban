@@ -58,6 +58,12 @@ docker compose -f deploy/compose.yaml up -d --build
 TOKEN=s3cret scripts/smoke.sh http://127.0.0.1:8800
 ```
 
+211 test host: `scripts/deploy-211.sh [REF]` builds a committed revision on
+the host and runs it as Compose project `openplayx-douban` in
+`~/openplayx-douban` on `192.168.1.211:18810`. The first run generates the
+token into `~/openplayx-douban/deploy/app-token.txt` (never printed).
+Roll back with `IMAGE_TAG=<tag> scripts/deploy-211.sh --rollback`.
+
 | Variable | Default | Meaning |
 |---|---|---|
 | `LISTEN` | `:8800` | listen address (`-listen` flag wins) |

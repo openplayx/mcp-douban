@@ -4,9 +4,8 @@ services:
       context: ..
       args:
         VERSION: ${VERSION:-dev}
-    image: openplayx/mcp-douban:${VERSION:-dev}
-    container_name: mcp-douban
+    image: ${MCP_DOUBAN_IMAGE:-openplayx/mcp-douban:dev}
     restart: unless-stopped
     env_file: .env
     ports:
-      - "${PORT:-8800}:8800"
+      - "${BIND:-0.0.0.0}:${PORT:-8800}:8800"
