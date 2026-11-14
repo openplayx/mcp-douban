@@ -1,0 +1,180 @@
+{
+ "category": "show",
+ "type": "show",
+ "total": 54,
+ "items": [
+  {
+   "id": "37100984",
+   "title": "后会友期",
+   "pic": {
+    "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2936933522.jpg",
+    "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936933522.jpg"
+   },
+   "rating": {
+    "count": 46896,
+    "max": 10,
+    "star_count": 4.5,
+    "value": 8.7
+   },
+   "uri": "douban://douban.com/tv/37100984",
+   "card_subtitle": "2026 / 中国大陆 / 真人秀 / 赵文海 / 李维嘉 张泉灵",
+   "is_new": false,
+   "episodes_info": "",
+   "type": "tv"
+  },
+  {
+   "id": "37816990",
+   "title": "现在就出发 第四季",
+   "pic": {
+    "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2936261227.jpg",
+    "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936261227.jpg"
+   },
+   "rating": {
+    "count": 9561,
+    "max": 10,
+    "star_count": 4.0,
+    "value": 8.0
+   },
+   "uri": "douban://douban.com/tv/37816990",
+   "card_subtitle": "2026 / 中国大陆 / 真人秀 / 王海龙 / 沈腾 白敬亭",
+   "is_new": false,
+   "episodes_info": "",
+   "type": "tv"
+  },
+  {
+   "id": "38422419",
+   "title": "扯淡电影史",
+   "pic": {
+    "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2937460613.jpg",
+    "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2937460613.jpg"
+   },
+   "rating": {
+    "count": 736,
+    "max": 10,
+    "star_count": 4.5,
+    "value": 8.7
+   },
+   "uri": "douban://douban.com/tv/38422419",
+   "card_subtitle": "2026 / 英国 / 纪录片 真人秀 / 阿尔·坎贝尔 / 戴安·摩根 迈克尔·贝",
+   "is_new": true,
+   "episodes_info": "",
+   "type": "tv"
+  }
+ ],
+ "tags": [
+  {
+   "title": "最近热门剧集",
+   "category": "tv",
+   "selected": false,
+   "types": [
+    {
+     "title": "综合",
+     "type": "tv",
+     "selected": false
+    },
+    {
+     "title": "国产剧",
+     "type": "tv_domestic",
+     "selected": false
+    },
+    {
+     "title": "欧美剧",
+     "type": "tv_american",
+     "selected": false
+    },
+    {
+     "title": "日剧",
+     "type": "tv_japanese",
+     "selected": false
+    },
+    {
+     "title": "韩剧",
+     "type": "tv_korean",
+     "selected": false
+    },
+    {
+     "title": "动画",
+     "type": "tv_animation",
+     "selected": false
+    },
+    {
+     "title": "纪录片",
+     "type": "tv_documentary",
+     "selected": false
+    }
+   ]
+  },
+  {
+   "title": "最近热门综艺",
+   "category": "show",
+   "selected": true,
+   "types": [
+    {
+     "title": "综合",
+     "type": "show",
+     "selected": true
+    },
+    {
+     "title": "国内",
+     "type": "show_domestic",
+     "selected": false
+    },
+    {
+     "title": "国外",
+     "type": "show_foreign",
+     "selected": false
+    }
+   ]
+  }
+ ],
+ "recommend_tags": [
+  {
+   "title": "综合",
+   "category": "tv",
+   "type": "tv",
+   "selected": false
+  },
+  {
+   "title": "国产剧",
+   "category": "tv",
+   "type": "tv_domestic",
+   "selected": false
+  },
+  {
+   "title": "综艺",
+   "category": "show",
+   "type": "show",
+   "selected": true
+  },
+  {
+   "title": "欧美剧",
+   "category": "tv",
+   "type": "tv_american",
+   "selected": false
+  },
+  {
+   "title": "日剧",
+   "category": "tv",
+   "type": "tv_japanese",
+   "selected": false
+  },
+  {
+   "title": "韩剧",
+   "category": "tv",
+   "type": "tv_korean",
+   "selected": false
+  },
+  {
+   "title": "动画",
+   "category": "tv",
+   "type": "tv_animation",
+   "selected": false
+  },
+  {
+   "title": "纪录片",
+   "category": "tv",
+   "type": "tv_documentary",
+   "selected": false
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+services:
+  mcp-douban:
+    build:
+      context: ..
+      args:
+        VERSION: ${VERSION:-dev}
+    image: openplayx/mcp-douban:${VERSION:-dev}
+    container_name: mcp-douban
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "${PORT:-8800}:8800"

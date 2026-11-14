@@ -1,0 +1,128 @@
+{
+ "banned": "",
+ "count": 5,
+ "items": [
+  {
+   "layout": "subject",
+   "target": {
+    "abstract": "",
+    "card_subtitle": "美国 / 剧情 犯罪 / 弗兰克·德拉邦特 / 蒂姆·罗宾斯 摩根·弗里曼",
+    "controversy_reason": "",
+    "cover_url": "https://qnmob3-sign.doubanio.com/view/photo/large/public/p2936346968.jpg?sa_cv=b70b95c7d571a72ed9cfc11bc3acb9b9&sa_ct=6af8d06e&imageView2/0/q/80/w/9999/h/120/format/jpg",
+    "has_linewatch": true,
+    "id": "1292052",
+    "null_rating_reason": "",
+    "rating": {
+     "count": 3364777,
+     "max": 10,
+     "star_count": 5.0,
+     "value": 9.7
+    },
+    "title": "肖申克的救赎",
+    "uri": "douban://douban.com/movie/1292052",
+    "year": "1994"
+   },
+   "target_id": "1292052",
+   "target_type": "movie",
+   "type_name": "电影"
+  },
+  {
+   "layout": "subject",
+   "target": {
+    "abstract": "",
+    "card_subtitle": "英国 / 纪录片 / 蒂姆·罗宾斯 摩根·弗里曼",
+    "controversy_reason": "",
+    "cover_url": "https://qnmob3-sign.doubanio.com/view/photo/large/public/p2722407675.jpg?sa_cv=684d85a17f2b457d2130f1aae900f4a9&sa_ct=6af8d06e&imageView2/0/q/80/w/9999/h/120/format/jpg",
+    "has_linewatch": false,
+    "id": "35278770",
+    "null_rating_reason": "暂无评分",
+    "rating": {
+     "count": 0,
+     "max": 10,
+     "star_count": 0,
+     "value": 0
+    },
+    "title": "《肖申克的救赎》：主演访谈",
+    "uri": "douban://douban.com/movie/35278770",
+    "year": "2004"
+   },
+   "target_id": "35278770",
+   "target_type": "movie",
+   "type_name": "电影"
+  },
+  {
+   "layout": "subject",
+   "target": {
+    "abstract": "",
+    "card_subtitle": "美国 / 纪录片 / Andrew Abbott / 马克·柯莫德 摩根·弗里曼",
+    "controversy_reason": "",
+    "cover_url": "https://qnmob3-sign.doubanio.com/view/photo/large/public/p2871730409.jpg?sa_cv=bc6d88a4a02a416fff4ea3e435a1ff3a&sa_ct=6af8d06e&imageView2/0/q/80/w/9999/h/120/format/jpg",
+    "has_linewatch": false,
+    "id": "30295051",
+    "null_rating_reason": "暂无评分",
+    "rating": {
+     "count": 0,
+     "max": 10,
+     "star_count": 0,
+     "value": 0
+    },
+    "title": "“肖申克”：被救赎的电影",
+    "uri": "douban://douban.com/movie/30295051",
+    "year": "2001"
+   },
+   "target_id": "30295051",
+   "target_type": "movie",
+   "type_name": "电影"
+  },
+  {
+   "layout": "subject",
+   "target": {
+    "abstract": "",
+    "card_subtitle": "美国 / 纪录片 短片 / Constantine Nasr",
+    "controversy_reason": "",
+    "cover_url": "https://qnmob3-sign.doubanio.com/view/photo/large/public/p2871729824.jpg?sa_cv=bc2658ad89cf4e110a3408be6a27e089&sa_ct=6af8d06e&imageView2/0/q/80/w/9999/h/120/format/jpg",
+    "has_linewatch": false,
+    "id": "30295032",
+    "null_rating_reason": "暂无评分",
+    "rating": {
+     "count": 0,
+     "max": 10,
+     "star_count": 0,
+     "value": 0
+    },
+    "title": "希望永存：回顾《肖申克的救赎》",
+    "uri": "douban://douban.com/movie/30295032",
+    "year": "2004"
+   },
+   "target_id": "30295032",
+   "target_type": "movie",
+   "type_name": "电影"
+  },
+  {
+   "layout": "subject",
+   "target": {
+    "abstract": "",
+    "card_subtitle": "英国 印度 美国 / 纪录片 / 肖纳克·申 / Salik Rehman Mohammad Saud",
+    "controversy_reason": "",
+    "cover_url": "https://qnmob3-sign.doubanio.com/view/photo/large/public/p2882001197.jpg?sa_cv=c29d390f499f57d82e468eb7ef18873f&sa_ct=6af8d06e&imageView2/0/q/80/w/9999/h/120/format/jpg",
+    "has_linewatch": false,
+    "id": "35700084",
+    "null_rating_reason": "",
+    "rating": {
+     "count": 753,
+     "max": 10,
+     "star_count": 3.5,
+     "value": 7.4
+    },
+    "title": "生生相息",
+    "uri": "douban://douban.com/movie/35700084",
+    "year": "2022"
+   },
+   "target_id": "35700084",
+   "target_type": "movie",
+   "type_name": "电影"
+  }
+ ],
+ "start": 0,
+ "total": 7
+}

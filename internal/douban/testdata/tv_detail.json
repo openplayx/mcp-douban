@@ -1,0 +1,350 @@
+{
+ "actors": [
+  {
+   "name": "任时完"
+  },
+  {
+   "name": "薛仁雅"
+  },
+  {
+   "name": "金正贤"
+  },
+  {
+   "name": "李多斌"
+  },
+  {
+   "name": "金仁权"
+  }
+ ],
+ "aka": [
+  "伪装恋爱",
+  "为什么不知道我是女人?",
+  "你怎么不知道我是女人？",
+  "为什么不知道是女人?",
+  "여자인 걸 왜 모르지?",
+  "Why Don't You Know I'm a Woman?",
+  "Love in Disguise"
+ ],
+ "album_no_interact": false,
+ "body_bg_color": "f4f5f9",
+ "can_rate": true,
+ "card_subtitle": "2026 / 韩国 / 剧情 喜剧 爱情 / 朴丹熙 / 任时完 薛仁雅",
+ "color_scheme": {
+  "_base_color": [
+   0.6416666666666666,
+   0.4,
+   0.19607843137254902
+  ],
+  "_avg_color": [
+   0.6527777777777777,
+   0.1411764705882353,
+   0.3333333333333333
+  ],
+  "primary_color_light": "444b72",
+  "primary_color_dark": "2d324c",
+  "secondary_color": "f4f5f9",
+  "is_dark": true
+ },
+ "comment_count": 4627,
+ "controversy_reason": "",
+ "countries": [
+  "韩国"
+ ],
+ "cover": {
+  "author": {
+   "avatar": "https://img3.doubanio.com/icon/up197831695-502.jpg",
+   "id": "197831695",
+   "is_club": false,
+   "kind": "user",
+   "loc": {
+    "id": "128363",
+    "name": "首尔特别市",
+    "uid": "seoulsul"
+   },
+   "name": "젤리에이🧋",
+   "reg_time": "2019-06-12 20:29:52",
+   "type": "user",
+   "uid": "197831695",
+   "uri": "douban://douban.com/user/197831695",
+   "url": "https://www.douban.com/people/197831695/"
+  },
+  "create_time": "2026-09-14 08:38:02",
+  "description": "",
+  "id": "2935797899",
+  "image": {
+   "is_animated": false,
+   "is_live": false,
+   "large": {
+    "height": 1600,
+    "size": 0,
+    "url": "https://img3.doubanio.com/view/photo/l/public/p2935797899.jpg",
+    "width": 1129
+   },
+   "normal": {
+    "height": 600,
+    "size": 0,
+    "url": "https://img3.doubanio.com/view/photo/m/public/p2935797899.jpg",
+    "width": 423
+   },
+   "primary_color": "",
+   "raw": null,
+   "small": {
+    "height": 600,
+    "size": 0,
+    "url": "https://img3.doubanio.com/view/photo/s/public/p2935797899.jpg",
+    "width": 423
+   }
+  },
+  "owner_uri": "douban://douban.com/tv/37806882",
+  "position": 0,
+  "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/photo/2935797899/",
+  "type": "photo",
+  "uri": "douban://douban.com/photo/2935797899",
+  "url": "https://movie.douban.com/photos/photo/2935797899/"
+ },
+ "cover_url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2935797899.jpg",
+ "directors": [
+  {
+   "name": "朴丹熙"
+  }
+ ],
+ "durations": [
+  "60分钟"
+ ],
+ "episodes_count": 12,
+ "episodes_info": "",
+ "feedback_uri": "https://m.douban.com/subject/feedback?id=37806882&type=tv",
+ "forum_info": null,
+ "forum_topic_count": 0,
+ "gallery_topic_count": 0,
+ "genres": [
+  "剧情",
+  "喜剧",
+  "爱情"
+ ],
+ "has_linewatch": false,
+ "head_info": null,
+ "header_bg_color": "2d324c",
+ "honor_infos": [
+  {
+   "kind": "tv",
+   "rank": 1,
+   "title": "一周全球口碑剧集榜",
+   "uri": "douban://douban.com/subject_collection/tv_global_best_weekly?type=rank&category=movie&rank_type=weekly"
+  }
+ ],
+ "id": "37806882",
+ "info_url": "https://www.douban.com/doubanapp//h5/movie/37806882/desc",
+ "interest": null,
+ "interest_cmt_earlier_tip_desc": "该短评的发布时间早于公开上映时间，作者可能通过其他渠道提前观看，请谨慎参考。其评分将不计入总评分。",
+ "interest_cmt_earlier_tip_title": "发布于上映前",
+ "interest_control_info": null,
+ "intro": "该剧改编自同名小说和网漫，讲述大韩民国首屈一指的企业财阀三世兼女秘书杀人事件的嫌疑人尹伊俊，和以比一般男性更优越的力量，特殊部队出身的警察姜在熙，女扮男装的浪漫喜剧。\n任时完饰演虽然是温室里长大的财阀三代，但也是杀人事件的嫌疑人尹伊俊一角，是一个四次元的角色。\n薛仁雅饰演女扮男装，伪装成尹伊俊的随行秘书兼警卫员就业，紧密调查他的Girl Crush铁壁女姜在熙一角。",
+ "is_douban_intro": false,
+ "is_released": true,
+ "is_restrictive": false,
+ "is_show": false,
+ "is_tv": true,
+ "languages": [
+  "韩语"
+ ],
+ "last_episode_number": null,
+ "lineticket_url": "",
+ "linewatches": [],
+ "null_rating_reason": "",
+ "original_title": "나의 유죄인간",
+ "pic": {
+  "large": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2935797899.jpg",
+  "normal": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2935797899.jpg"
+ },
+ "pre_playable_date": null,
+ "pre_release_desc": "",
+ "pubdate": [
+  "2026-10-19(韩国)"
+ ],
+ "rate_info": "",
+ "rating": {
+  "count": 13781,
+  "max": 10,
+  "star_count": 4.5,
+  "value": 9.0
+ },
+ "realtime_hot_honor_infos": [
+  {
+   "kind": "tv",
+   "rank": 4,
+   "score": 525340,
+   "title": "热门电视",
+   "uri": "douban://douban.com/subject_collection/tv_real_time_hotest?type=rank&category=movie&rank_type=realtime_hot"
+  }
+ ],
+ "release_date": null,
+ "restrictive_icon_url": "",
+ "review_count": 40,
+ "share_activities": [],
+ "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/37806882",
+ "subject_collections": [],
+ "subtype": "tv",
+ "tags": [],
+ "ticket_price_info": "",
+ "ticket_promo_text": "",
+ "ticket_vendor_icons": [
+  "https://img9.doubanio.com/view/dale-online/dale_ad/public/0589a62f2f2d7c2.jpg"
+ ],
+ "title": "我的有罪之人",
+ "trailers": [
+  {
+   "cover_url": "https://img3.doubanio.com/img/trailer/medium/2935926802.jpg",
+   "create_time": "2026-09-18",
+   "desc": "",
+   "file_size": 8692874,
+   "id": "326256",
+   "n_comments": 3,
+   "runtime": "00:26",
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/tv/37806882/trailer%3Ftrailer_id%3D326256%26trailer_type%3DA",
+   "term_num": 0,
+   "title": "预告片",
+   "type": "A",
+   "type_name": "预告片",
+   "uri": "douban://douban.com/tv/37806882/trailer?trailer_id=326256&trailer_type=A",
+   "video_url": "https://vt1.doubanio.com/202611150517/02e5ef988995b5c5e9d562ce423ef362/view/movie/M/703260256.mp4"
+  }
+ ],
+ "type": "tv",
+ "uri": "douban://douban.com/tv/37806882",
+ "url": "https://movie.douban.com/subject/37806882/",
+ "variable_modules": [
+  {
+   "id": "rating",
+   "sub_modules": []
+  },
+  {
+   "id": "other_interests",
+   "sub_modules": []
+  },
+  {
+   "id": "tags",
+   "sub_modules": []
+  },
+  {
+   "id": "episode_discussions",
+   "sub_modules": []
+  },
+  {
+   "id": "video_photos",
+   "sub_modules": []
+  },
+  {
+   "id": "share",
+   "sub_modules": [
+    {
+     "id": "screenshot"
+    },
+    {
+     "id": "doulist"
+    },
+    {
+     "id": "status"
+    },
+    {
+     "id": "other_channels"
+    }
+   ]
+  },
+  {
+   "id": "honor_infos",
+   "sub_modules": []
+  },
+  {
+   "id": "comments",
+   "sub_modules": [
+    {
+     "id": "count"
+    },
+    {
+     "data": [
+      {
+       "name": "热门",
+       "id": "hot"
+      },
+      {
+       "name": "最新",
+       "id": "latest"
+      },
+      {
+       "name": "友邻",
+       "id": "friend"
+      }
+     ],
+     "id": "sort_by",
+     "data_type": "sort_by"
+    },
+    {
+     "id": "rating_scope"
+    }
+   ]
+  },
+  {
+   "id": "related_items",
+   "sub_modules": []
+  },
+  {
+   "id": "interest",
+   "sub_modules": []
+  },
+  {
+   "id": "related_subjects",
+   "sub_modules": []
+  },
+  {
+   "id": "ugc_tabs",
+   "sub_modules": [
+    {
+     "id": "ugc_tab",
+     "data_type": "ugc_tab",
+     "data": {
+      "type": "review",
+      "title": "剧评",
+      "source": "reviews",
+      "sort_by": [
+       {
+        "name": "热门",
+        "id": "hot"
+       },
+       {
+        "name": "最新",
+        "id": "latest"
+       },
+       {
+        "name": "友邻",
+        "id": "friend"
+       }
+      ]
+     }
+    },
+    {
+     "id": "ugc_tab",
+     "data_type": "ugc_tab",
+     "data": {
+      "type": "custom",
+      "title": "小组讨论",
+      "id": "group",
+      "uri": "douban://partial.douban.com/subject/37806882/group_topic/_content?group_id=764889",
+      "source": "小组讨论",
+      "count": 214
+     }
+    }
+   ]
+  }
+ ],
+ "vendor_count": 0,
+ "vendor_desc": "",
+ "vendor_icons": [],
+ "vendors": [],
+ "video": null,
+ "webisode": null,
+ "webisode_count": 0,
+ "webview_info": {},
+ "wechat_timeline_share": "screenshot",
+ "year": "2026"
+}

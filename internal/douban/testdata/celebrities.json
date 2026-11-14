@@ -1,0 +1,1029 @@
+{
+ "directors": [
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p230.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p230.jpg"
+   },
+   "character": "导演",
+   "id": "1047973",
+   "latin_name": "Frank Darabont",
+   "name": "弗兰克·德拉邦特",
+   "roles": [
+    "编剧",
+    "导演",
+    "制片人",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1047973/",
+   "simple_character": "",
+   "title": "弗兰克·德拉邦特（同名）法国,杜省,蒙贝利亚尔影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1047973?subject_id=27253735",
+   "url": "https://movie.douban.com/celebrity/1047973/",
+   "user": null
+  }
+ ],
+ "actors": [
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/celebrity/m/public/p17525.jpg",
+    "normal": "https://img9.doubanio.com/view/celebrity/m/public/p17525.jpg"
+   },
+   "character": "饰 安迪·杜佛兰 Andy Dufresne",
+   "id": "1054521",
+   "latin_name": "Tim Robbins",
+   "name": "蒂姆·罗宾斯",
+   "roles": [
+    "演员",
+    "导演",
+    "制片人",
+    "编剧",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1054521/",
+   "simple_character": "",
+   "title": "蒂姆·罗宾斯（同名）美国,加利福尼亚州,西科维纳影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1054521?subject_id=27260288",
+   "url": "https://movie.douban.com/celebrity/1054521/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p34642.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p34642.jpg"
+   },
+   "character": "饰 艾利斯·波伊德·“瑞德”·瑞丁 Ellis Boyd 'Red' Redding",
+   "id": "1054534",
+   "latin_name": "Morgan Freeman",
+   "name": "摩根·弗里曼",
+   "roles": [
+    "演员",
+    "制片人",
+    "配音",
+    "导演",
+    "主持人"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1054534/",
+   "simple_character": "",
+   "title": "摩根·弗里曼（同名）美国,田纳西州,孟菲斯影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1054534?subject_id=27260301",
+   "url": "https://movie.douban.com/celebrity/1054534/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p5837.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p5837.jpg"
+   },
+   "character": "饰 监狱长山姆·诺顿 Warden Norton",
+   "id": "1041179",
+   "latin_name": "Bob Gunton",
+   "name": "鲍勃·冈顿",
+   "roles": [
+    "演员",
+    "配音",
+    "导演"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1041179/",
+   "simple_character": "",
+   "title": "鲍勃·冈顿（同名）美国,加利福尼亚,圣莫尼卡影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1041179?subject_id=27246934",
+   "url": "https://movie.douban.com/celebrity/1041179/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p7827.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p7827.jpg"
+   },
+   "character": "饰 海伍德 Heywood",
+   "id": "1000095",
+   "latin_name": "William Sadler",
+   "name": "威廉·赛德勒",
+   "roles": [
+    "演员",
+    "导演"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1000095/",
+   "simple_character": "",
+   "title": "威廉·赛德勒（同名）美国,纽约,布法罗影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1000095?subject_id=27205785",
+   "url": "https://movie.douban.com/celebrity/1000095/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/personage/m/public/af679543a3cc6a54afe91023a73b7348.jpg",
+    "normal": "https://img3.doubanio.com/view/personage/m/public/af679543a3cc6a54afe91023a73b7348.jpg"
+   },
+   "character": "饰 上尉哈德利 Captain Hadley",
+   "id": "1013817",
+   "latin_name": "Clancy Brown",
+   "name": "克兰西·布朗",
+   "roles": [
+    "演员",
+    "配音",
+    "制片人"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1013817/",
+   "simple_character": "",
+   "title": "克兰西·布朗（同名）美国,俄亥俄州,厄巴纳影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1013817?subject_id=27219521",
+   "url": "https://movie.douban.com/celebrity/1013817/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/celebrity/m/public/p1465659160.14.jpg",
+    "normal": "https://img9.doubanio.com/view/celebrity/m/public/p1465659160.14.jpg"
+   },
+   "character": "饰 汤米 Tommy",
+   "id": "1010612",
+   "latin_name": "Gil Bellows",
+   "name": "吉尔·贝罗斯",
+   "roles": [
+    "演员",
+    "制片人",
+    "导演",
+    "编剧"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1010612/",
+   "simple_character": "",
+   "title": "吉尔·贝罗斯（同名）加拿大,不列颠哥伦比亚省,温哥华影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1010612?subject_id=27216303",
+   "url": "https://movie.douban.com/celebrity/1010612/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1563799676.67.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1563799676.67.jpg"
+   },
+   "character": "饰 包格斯·戴蒙 Bogs Diamond",
+   "id": "1054892",
+   "latin_name": "Mark Rolston",
+   "name": "马克·罗斯顿",
+   "roles": [
+    "演员",
+    "配音",
+    "编剧"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1054892/",
+   "simple_character": "",
+   "title": "马克·罗斯顿（同名）美国,马里兰影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1054892?subject_id=27260625",
+   "url": "https://movie.douban.com/celebrity/1054892/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p43330.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p43330.jpg"
+   },
+   "character": "饰 布鲁克斯·海特伦 Brooks Hatlen",
+   "id": "1027897",
+   "latin_name": "James Whitmore",
+   "name": "詹姆斯·惠特摩",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1027897/",
+   "simple_character": "",
+   "title": "詹姆斯·惠特摩（同名）美国,纽约,白色平原影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1027897?subject_id=27233634",
+   "url": "https://movie.douban.com/celebrity/1027897/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1586896433.89.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1586896433.89.jpg"
+   },
+   "character": "饰 1946地方检察官 1946 D.A.",
+   "id": "1087302",
+   "latin_name": "Jeffrey DeMunn",
+   "name": "杰弗里·德曼",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1087302/",
+   "simple_character": "",
+   "title": "杰弗里·德曼（同名）美国,纽约,布法罗影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1087302?subject_id=27293064",
+   "url": "https://movie.douban.com/celebrity/1087302/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1367685251.28.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1367685251.28.jpg"
+   },
+   "character": "饰 斯基特 Skeet",
+   "id": "1074035",
+   "latin_name": "Larry Brandenburg",
+   "name": "拉里·布兰登伯格",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1074035/",
+   "simple_character": "",
+   "title": "拉里·布兰登伯格（同名）美国,明尼苏达州,瓦巴沙影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1074035?subject_id=27279787",
+   "url": "https://movie.douban.com/celebrity/1074035/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/celebrity/m/public/p56324.jpg",
+    "normal": "https://img9.doubanio.com/view/celebrity/m/public/p56324.jpg"
+   },
+   "character": "饰 基格 Jigger",
+   "id": "1099030",
+   "latin_name": "Neil Giuntoli",
+   "name": "尼尔·吉恩托利",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1099030/",
+   "simple_character": "",
+   "title": "尼尔·吉恩托利（同名）美国,伊利诺伊州,芝加哥影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1099030?subject_id=27304832",
+   "url": "https://movie.douban.com/celebrity/1099030/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/celebrity/m/public/p1476020283.36.jpg",
+    "normal": "https://img9.doubanio.com/view/celebrity/m/public/p1476020283.36.jpg"
+   },
+   "character": "饰 弗洛依德 Floyd",
+   "id": "1343305",
+   "latin_name": "Brian Libby",
+   "name": "布赖恩·利比",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1343305/",
+   "simple_character": "",
+   "title": "布赖恩·利比（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1343305?subject_id=27546123",
+   "url": "https://movie.douban.com/celebrity/1343305/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1359616807.77.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1359616807.77.jpg"
+   },
+   "character": "饰 瞌睡虫 Snooze",
+   "id": "1048222",
+   "latin_name": "David Proval",
+   "name": "大卫·普罗瓦尔",
+   "roles": [
+    "演员",
+    "配音",
+    "编剧"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1048222/",
+   "simple_character": "",
+   "title": "大卫·普罗瓦尔（同名）美国,纽约,布鲁克林影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1048222?subject_id=27253983",
+   "url": "https://movie.douban.com/celebrity/1048222/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1476020363.18.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1476020363.18.jpg"
+   },
+   "character": "饰 厄尼 Ernie",
+   "id": "1343306",
+   "latin_name": "Joseph Ragno",
+   "name": "约瑟夫·劳格诺",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1343306/",
+   "simple_character": "",
+   "title": "约瑟夫·劳格诺（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1343306?subject_id=27546124",
+   "url": "https://movie.douban.com/celebrity/1343306/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p32332.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p32332.jpg"
+   },
+   "character": "饰 守卫梅特 Guard Mert",
+   "id": "1315528",
+   "latin_name": "Jude Ciccolella",
+   "name": "祖德·塞克利拉",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1315528/",
+   "simple_character": "",
+   "title": "祖德·塞克利拉（同名）Nassau County, New York, USA影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1315528?subject_id=27494501",
+   "url": "https://movie.douban.com/celebrity/1315528/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p36337.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p36337.jpg"
+   },
+   "character": "饰 守卫特劳特 Guard Trout",
+   "id": "1014040",
+   "latin_name": "Paul McCrane",
+   "name": "保罗·麦克兰尼",
+   "roles": [
+    "演员",
+    "导演",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1014040/",
+   "simple_character": "",
+   "title": "保罗·麦克兰尼（同名）美国,宾夕法尼亚州,费城影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1014040?subject_id=27219748",
+   "url": "https://movie.douban.com/celebrity/1014040/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1522316270.19.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1522316270.19.jpg"
+   },
+   "character": "饰 安迪·杜佛兰的妻子 Andy Dufresne's Wife",
+   "id": "1390795",
+   "latin_name": "Renee Blaine",
+   "name": "芮妮·布莱恩",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1390795/",
+   "simple_character": "",
+   "title": "芮妮·布莱恩（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1390795?subject_id=30182674",
+   "url": "https://movie.douban.com/celebrity/1390795/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1522316493.7.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1522316493.7.jpg"
+   },
+   "character": "饰 新囚犯 Fresh Fish Con",
+   "id": "1083603",
+   "latin_name": "Alfonso Freeman",
+   "name": "阿方索·弗里曼",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1083603/",
+   "simple_character": "",
+   "title": "阿方索·弗里曼（同名）美国,加利福尼亚州,洛杉矶影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1083603?subject_id=27289363",
+   "url": "https://movie.douban.com/celebrity/1083603/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/celebrity/m/public/pRwStqfN2koMcel_avatar_uploaded1371825073.45.jpg",
+    "normal": "https://img9.doubanio.com/view/celebrity/m/public/pRwStqfN2koMcel_avatar_uploaded1371825073.45.jpg"
+   },
+   "character": "饰 囚犯 Hungry Fish Con",
+   "id": "1330490",
+   "latin_name": "V.J. Foster",
+   "name": "V·J·福斯特",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1330490/",
+   "simple_character": "",
+   "title": "V·J·福斯特（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1330490?subject_id=27492451",
+   "url": "https://movie.douban.com/celebrity/1330490/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1517290928.97.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1517290928.97.jpg"
+   },
+   "character": "饰 肥仔 Fat Ass",
+   "id": "1000635",
+   "latin_name": "Frank Medrano",
+   "name": "弗兰克·梅德拉诺",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1000635/",
+   "simple_character": "",
+   "title": "弗兰克·梅德拉诺（同名）美国,纽约,布鲁克林影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1000635?subject_id=27206325",
+   "url": "https://movie.douban.com/celebrity/1000635/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1522316743.92.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1522316743.92.jpg"
+   },
+   "character": "饰 蒂雷尔 Tyrell",
+   "id": "1390797",
+   "latin_name": "Mack Miles",
+   "name": "马克·迈尔斯",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1390797/",
+   "simple_character": "",
+   "title": "马克·迈尔斯（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1390797?subject_id=30182677",
+   "url": "https://movie.douban.com/celebrity/1390797/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/personage/m/public/8f68e9ed07c25eb5a03ce0e03771f0aa.jpg",
+    "normal": "https://img3.doubanio.com/view/personage/m/public/8f68e9ed07c25eb5a03ce0e03771f0aa.jpg"
+   },
+   "character": "饰 皮特 Pete",
+   "id": "1150160",
+   "latin_name": "Neil Summers",
+   "name": "尼尔·萨默斯",
+   "roles": [
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1150160/",
+   "simple_character": "",
+   "title": "尼尔·萨默斯（同名）英国,伦敦影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1150160?subject_id=27356038",
+   "url": "https://movie.douban.com/celebrity/1150160/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/personage/m/public/7a0076721e92c9290f7fb589d1423b87.jpg",
+    "normal": "https://img3.doubanio.com/view/personage/m/public/7a0076721e92c9290f7fb589d1423b87.jpg"
+   },
+   "character": "饰 守卫扬布拉德 Guard Youngblood",
+   "id": "1048233",
+   "latin_name": "Ned Bellamy",
+   "name": "耐德·巴拉米",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1048233/",
+   "simple_character": "",
+   "title": "耐德·巴拉米（同名）美国,俄亥俄州影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1048233?subject_id=27253994",
+   "url": "https://movie.douban.com/celebrity/1048233/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1522316778.38.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1522316778.38.jpg"
+   },
+   "character": "饰 守卫德金斯 Guard Dekins",
+   "id": "1000721",
+   "latin_name": "Brian Delate",
+   "name": "布赖恩·戴拉特",
+   "roles": [
+    "演员",
+    "导演",
+    "制片人",
+    "编剧"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1000721/",
+   "simple_character": "",
+   "title": "布赖恩·戴拉特（同名）美国,新泽西州,特伦顿影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1000721?subject_id=27206411",
+   "url": "https://movie.douban.com/celebrity/1000721/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/personage/m/public/7e7218df362f58b387b8bb10757c18a9.jpg",
+    "normal": "https://img3.doubanio.com/view/personage/m/public/7e7218df362f58b387b8bb10757c18a9.jpg"
+   },
+   "character": "饰 守卫威利 Guard Wiley",
+   "id": "1333685",
+   "latin_name": "Don McManus",
+   "name": "唐·麦克马纳斯",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1333685/",
+   "simple_character": "",
+   "title": "唐·麦克马纳斯（同名）美国,加利福尼亚州,圣迭戈影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1333685?subject_id=27552265",
+   "url": "https://movie.douban.com/celebrity/1333685/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/personage/m/public/3baf3916096ac91fc1f8d2e6484cf512.jpg",
+    "normal": "https://img3.doubanio.com/view/personage/m/public/3baf3916096ac91fc1f8d2e6484cf512.jpg"
+   },
+   "character": "配音",
+   "id": "1339972",
+   "latin_name": "Jiang Bian",
+   "name": "边江",
+   "roles": [
+    "配音",
+    "副导演",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1339972/",
+   "simple_character": "",
+   "title": "边江（同名）中国,河北,秦皇岛影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1339972?subject_id=27503325",
+   "url": "https://movie.douban.com/celebrity/1339972/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img2.doubanio.com/view/personage/m/public/70b100200e83e9c08b56d2e6dc7c7b8e.jpg",
+    "normal": "https://img2.doubanio.com/view/personage/m/public/70b100200e83e9c08b56d2e6dc7c7b8e.jpg"
+   },
+   "character": "配 囚犯海伍德",
+   "id": "1274722",
+   "latin_name": "Tongsheng Han",
+   "name": "韩童生",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1274722/",
+   "simple_character": "",
+   "title": "韩童生（同名）中国,北京影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1274722?subject_id=27495229",
+   "url": "https://movie.douban.com/celebrity/1274722/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1537409799.83.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1537409799.83.jpg"
+   },
+   "character": "配 狱警队长拜伦·哈德利",
+   "id": "1320458",
+   "latin_name": "Lihong Li",
+   "name": "李立宏",
+   "roles": [
+    "配音",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1320458/",
+   "simple_character": "",
+   "title": "李立宏（同名）中国,北京影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1320458?subject_id=27556252",
+   "url": "https://movie.douban.com/celebrity/1320458/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1543992094.03.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1543992094.03.jpg"
+   },
+   "character": "配 艾利斯·波德·瑞德",
+   "id": "1334341",
+   "latin_name": "Jianyi Lu",
+   "name": "陆建艺",
+   "roles": [
+    "配音",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1334341/",
+   "simple_character": "",
+   "title": "陆建艺（同名）中国,吉林,长春影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1334341?subject_id=27484570",
+   "url": "https://movie.douban.com/celebrity/1334341/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p58910.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p58910.jpg"
+   },
+   "character": "配 典狱长山姆·诺顿",
+   "id": "1324384",
+   "latin_name": "Guangyu Xu",
+   "name": "徐光宇",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1324384/",
+   "simple_character": "",
+   "title": "徐光宇（同名）中国,吉林,长春影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1324384?subject_id=27567809",
+   "url": "https://movie.douban.com/celebrity/1324384/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1358867454.79.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1358867454.79.jpg"
+   },
+   "character": "配音",
+   "id": "1323213",
+   "latin_name": "Wenling Li",
+   "name": "李文玲",
+   "roles": [
+    "演员",
+    "配音",
+    "副导演"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1323213/",
+   "simple_character": "",
+   "title": "李文玲（同名）中国,北京影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1323213?subject_id=27567488",
+   "url": "https://movie.douban.com/celebrity/1323213/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/personage/m/public/84f8be9fc51aeb319aa9d188e30a01b8.jpg",
+    "normal": "https://img3.doubanio.com/view/personage/m/public/84f8be9fc51aeb319aa9d188e30a01b8.jpg"
+   },
+   "character": "配 典狱长山姆·诺顿",
+   "id": "1326850",
+   "latin_name": "Yi Li",
+   "name": "李易",
+   "roles": [
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1326850/",
+   "simple_character": "",
+   "title": "李易（同名）中国,北京影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1326850?subject_id=27549129",
+   "url": "https://movie.douban.com/celebrity/1326850/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img2.doubanio.com/view/personage/m/public/f6a87011ed6e702d955cac85d17fc031.jpg",
+    "normal": "https://img2.doubanio.com/view/personage/m/public/f6a87011ed6e702d955cac85d17fc031.jpg"
+   },
+   "character": "配 囚犯海伍德",
+   "id": "1319823",
+   "latin_name": "Xiaoming Zhao",
+   "name": "赵晓明",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1319823/",
+   "simple_character": "",
+   "title": "赵晓明（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1319823?subject_id=27565625",
+   "url": "https://movie.douban.com/celebrity/1319823/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1486473604.68.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1486473604.68.jpg"
+   },
+   "character": "配 布鲁克斯·海特伦（老布）",
+   "id": "1312712",
+   "latin_name": "Zhixin Li",
+   "name": "李志新",
+   "roles": [
+    "配音",
+    "演员",
+    "导演"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1312712/",
+   "simple_character": "",
+   "title": "李志新（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1312712?subject_id=27540965",
+   "url": "https://movie.douban.com/celebrity/1312712/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1542713851.92.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1542713851.92.jpg"
+   },
+   "character": "配 艾利斯·波德·瑞德",
+   "id": "1320628",
+   "latin_name": "Zhiqiang Zhou",
+   "name": "周志强",
+   "roles": [
+    "配音",
+    "副导演"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1320628/",
+   "simple_character": "",
+   "title": "周志强（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1320628?subject_id=27551496",
+   "url": "https://movie.douban.com/celebrity/1320628/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/celebrity/m/public/p1547735906.25.jpg",
+    "normal": "https://img9.doubanio.com/view/celebrity/m/public/p1547735906.25.jpg"
+   },
+   "character": "配 典狱长山姆·诺顿",
+   "id": "1408942",
+   "latin_name": "Yin Cheng",
+   "name": "程寅",
+   "roles": [
+    "配音",
+    "音效",
+    "副导演",
+    "演员",
+    "其它"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1408942/",
+   "simple_character": "",
+   "title": "程寅（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1408942?subject_id=30432971",
+   "url": "https://movie.douban.com/celebrity/1408942/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/celebrity/m/public/p1527581243.84.jpg",
+    "normal": "https://img9.doubanio.com/view/celebrity/m/public/p1527581243.84.jpg"
+   },
+   "character": "配音",
+   "id": "1384029",
+   "latin_name": "Yaohan Zhang",
+   "name": "张遥函",
+   "roles": [
+    "配音",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1384029/",
+   "simple_character": "",
+   "title": "张遥函（同名）中国影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1384029?subject_id=27588596",
+   "url": "https://movie.douban.com/celebrity/1384029/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img2.doubanio.com/view/celebrity/m/public/p1541737758.21.jpg",
+    "normal": "https://img2.doubanio.com/view/celebrity/m/public/p1541737758.21.jpg"
+   },
+   "character": "配 安迪·杜佛兰",
+   "id": "1341267",
+   "latin_name": "Kui Lu",
+   "name": "陆揆",
+   "roles": [
+    "配音",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1341267/",
+   "simple_character": "",
+   "title": "陆揆（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1341267?subject_id=27553620",
+   "url": "https://movie.douban.com/celebrity/1341267/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/celebrity/m/public/p1575209626.44.jpg",
+    "normal": "https://img9.doubanio.com/view/celebrity/m/public/p1575209626.44.jpg"
+   },
+   "character": "配音",
+   "id": "1320634",
+   "latin_name": "Jing Liao",
+   "name": "廖菁",
+   "roles": [
+    "配音",
+    "副导演",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1320634/",
+   "simple_character": "",
+   "title": "廖菁（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1320634?subject_id=27551502",
+   "url": "https://movie.douban.com/celebrity/1320634/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/personage/m/public/5a40c2627f86c65f986bf9d2cc383425.jpg",
+    "normal": "https://img9.doubanio.com/view/personage/m/public/5a40c2627f86c65f986bf9d2cc383425.jpg"
+   },
+   "character": "配 布巴·布鲁",
+   "id": "1378154",
+   "latin_name": "Lai Mang",
+   "name": "芒莱",
+   "roles": [
+    "配音",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1378154/",
+   "simple_character": "",
+   "title": "芒莱（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1378154?subject_id=27577075",
+   "url": "https://movie.douban.com/celebrity/1378154/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1395143851.08.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1395143851.08.jpg"
+   },
+   "character": "配音",
+   "id": "1336934",
+   "latin_name": "Guang Chen",
+   "name": "陈光",
+   "roles": [
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1336934/",
+   "simple_character": "",
+   "title": "陈光（同名）中国,北京影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1336934?subject_id=27572203",
+   "url": "https://movie.douban.com/celebrity/1336934/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/p1583249048.9.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/p1583249048.9.jpg"
+   },
+   "character": "配 安迪·杜佛兰",
+   "id": "1425007",
+   "latin_name": "Lingyun Wu",
+   "name": "吴凌云",
+   "roles": [
+    "配音",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1425007/",
+   "simple_character": "",
+   "title": "吴凌云（同名）中国,江苏,扬州影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1425007?subject_id=34866844",
+   "url": "https://movie.douban.com/celebrity/1425007/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img9.doubanio.com/view/personage/m/public/42343d7fe3621726a25d3e790d4eb005.jpg",
+    "normal": "https://img9.doubanio.com/view/personage/m/public/42343d7fe3621726a25d3e790d4eb005.jpg"
+   },
+   "character": "配 布鲁克斯·海特伦(老布)",
+   "id": "1385397",
+   "latin_name": "Shuren Zhao",
+   "name": "赵述仁",
+   "roles": [
+    "配音",
+    "演员",
+    "副导演"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1385397/",
+   "simple_character": "",
+   "title": "赵述仁（同名）中国影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1385397?subject_id=27610484",
+   "url": "https://movie.douban.com/celebrity/1385397/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/celebrity/m/public/pAi6L61gJILwcel_avatar_uploaded1614857490.63.jpg",
+    "normal": "https://img3.doubanio.com/view/celebrity/m/public/pAi6L61gJILwcel_avatar_uploaded1614857490.63.jpg"
+   },
+   "character": "配音",
+   "id": "1453067",
+   "latin_name": "Xiaoqing Xu",
+   "name": "徐晓青",
+   "roles": [
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1453067/",
+   "simple_character": "",
+   "title": "徐晓青（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1453067?subject_id=35387998",
+   "url": "https://movie.douban.com/celebrity/1453067/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img2.doubanio.com/view/celebrity/m/public/p1554907702.01.jpg",
+    "normal": "https://img2.doubanio.com/view/celebrity/m/public/p1554907702.01.jpg"
+   },
+   "character": "配 布鲁克斯·海特伦（老布）",
+   "id": "1414233",
+   "latin_name": "Hewei Zou",
+   "name": "邹赫威",
+   "roles": [
+    "演员",
+    "配音"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1414233/",
+   "simple_character": "",
+   "title": "邹赫威（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1414233?subject_id=33404988",
+   "url": "https://movie.douban.com/celebrity/1414233/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/personage/m/public/16adeb6b452211f2caa28e7994a1ddd7.jpg",
+    "normal": "https://img3.doubanio.com/view/personage/m/public/16adeb6b452211f2caa28e7994a1ddd7.jpg"
+   },
+   "character": "配 汤米·威廉姆斯",
+   "id": "1419577",
+   "latin_name": "Wei Zhang",
+   "name": "张伟",
+   "roles": [
+    "配音",
+    "副导演",
+    "演员",
+    "音效"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1419577/",
+   "simple_character": "",
+   "title": "张伟（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1419577?subject_id=34460987",
+   "url": "https://movie.douban.com/celebrity/1419577/",
+   "user": null
+  },
+  {
+   "avatar": {
+    "large": "https://img3.doubanio.com/view/personage/m/public/d84eb0f8d91e37bd93a51b564089ed23.jpg",
+    "normal": "https://img3.doubanio.com/view/personage/m/public/d84eb0f8d91e37bd93a51b564089ed23.jpg"
+   },
+   "character": "配 安迪·杜佛兰",
+   "id": "1363220",
+   "latin_name": "Baohua Ye",
+   "name": "叶宝华",
+   "roles": [
+    "配音",
+    "演员"
+   ],
+   "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/celebrity/1363220/",
+   "simple_character": "",
+   "title": "叶宝华（同名）影视演员",
+   "type": "celebrity",
+   "uri": "douban://douban.com/celebrity/1363220?subject_id=27580717",
+   "url": "https://movie.douban.com/celebrity/1363220/",
+   "user": null
+  }
+ ],
+ "total": 68
+}
