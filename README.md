@@ -1,5 +1,7 @@
 # mcp-douban
 
+English | [简体中文](README.zh-CN.md)
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Public Douban (豆瓣) movie and TV data as an HTTP API and an MCP server, in
