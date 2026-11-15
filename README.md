@@ -1,5 +1,7 @@
 # mcp-douban
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Public Douban (豆瓣) movie and TV data as an HTTP API and an MCP server, in
 one static Go binary with no dependencies outside the standard library.
 
@@ -43,11 +45,16 @@ These endpoints are undocumented and can change at any time. Run
 `scripts/smoke.sh` to check them against the live site. Data is Douban's;
 use it within Douban's terms.
 
-## Run
+Part of [OpenPlayX](https://github.com/openplayx/openplayx), but usable from
+any MCP client.
+
+## Quick start
+
+Requirements: Go 1.26+ (or Docker).
 
 ```bash
 go run ./cmd/mcp-douban                       # :8800, no auth
-API_TOKENS=s3cret PUBLIC_URL=http://192.168.1.211:8800 go run ./cmd/mcp-douban
+API_TOKENS=s3cret PUBLIC_URL=https://douban.example.com go run ./cmd/mcp-douban
 ```
 
 Docker:
@@ -57,12 +64,6 @@ cp deploy/env.example deploy/.env             # set API_TOKENS, PUBLIC_URL
 docker compose -f deploy/compose.yaml up -d --build
 TOKEN=s3cret scripts/smoke.sh http://127.0.0.1:8800
 ```
-
-211 test host: `scripts/deploy-211.sh [REF]` builds a committed revision on
-the host and runs it as Compose project `openplayx-douban` in
-`~/openplayx-douban` on `192.168.1.211:18810`. The first run generates the
-token into `~/openplayx-douban/deploy/app-token.txt` (never printed).
-Roll back with `IMAGE_TAG=<tag> scripts/deploy-211.sh --rollback`.
 
 | Variable | Default | Meaning |
 |---|---|---|
@@ -167,3 +168,20 @@ internal/api/      HTTP routes, auth, image proxy, /api/mcp
 deploy/            compose file and env template
 scripts/           build and live smoke test
 ```
+
+## Contributing
+
+Issues and pull requests are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
+Report security problems privately as described in [SECURITY.md](SECURITY.md).
+
+## Disclaimer
+
+This is an unofficial project, not affiliated with or endorsed by Douban. It
+uses undocumented endpoints that may change or stop working at any time. All
+data and images belong to Douban and their owners; use this service for
+personal, non-commercial purposes, respect Douban's terms of service, and keep
+request rates low.
+
+## License
+
+[MIT](LICENSE)
