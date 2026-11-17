@@ -27,7 +27,7 @@ Thanks for your interest. Bug reports, fixes and small improvements are welcome.
 5. Tool names, arguments and error codes are a contract with MCP clients:
    change them only with a good reason and say so in the pull request.
 
-When Douban changes a response, re-record the fixture in `internal/douban/testdata` together with the fix.
+When Douban changes a response, re-record the fixture in `src/internal/douban/testdata` together with the fix.
 
 By contributing you agree that your contribution is licensed under this
 repository's license.

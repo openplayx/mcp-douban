@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/openplayx/mcp-douban/internal/douban"
+	"github.com/openplayx/mcp-douban/src/internal/douban"
 )
 
 func testServer(t *testing.T, tokens ...string) *httptest.Server {

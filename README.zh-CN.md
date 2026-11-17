@@ -39,8 +39,8 @@
 依赖：Go 1.26+（或 Docker）。
 
 ```bash
-go run ./cmd/mcp-douban                       # :8800，不鉴权
-API_TOKENS=s3cret PUBLIC_URL=https://douban.example.com go run ./cmd/mcp-douban
+go run ./src/cmd/mcp-douban                       # :8800，不鉴权
+API_TOKENS=s3cret PUBLIC_URL=https://douban.example.com go run ./src/cmd/mcp-douban
 ```
 
 Docker：
@@ -131,18 +131,18 @@ stdio 模式没有图片代理，所以不返回 `poster_proxy`。
 ## 开发
 
 ```bash
-go test -race ./...            # 离线：使用 internal/douban/testdata 里录制的豆瓣响应
+go test -race ./...            # 离线：使用 src/internal/douban/testdata 里录制的豆瓣响应
 scripts/smoke.sh               # 在线：对运行中的实例调用真实豆瓣
 scripts/build.sh linux/amd64   # 静态二进制输出到 dist/
 ```
 
 ```text
-cmd/mcp-douban/    入口：HTTP 服务、`stdio`、`version`
-internal/douban/   上游客户端：榜单目录、缓存、请求间隔、规范化、图片获取
-internal/mcp/      MCP 工具和 JSON-RPC 处理（与传输方式无关）
-internal/api/      HTTP 路由、鉴权、图片代理、/api/mcp
-deploy/            compose 文件和环境变量模板
-scripts/           构建和在线冒烟测试
+src/cmd/mcp-douban/   入口：HTTP 服务、`stdio`、`version`
+src/internal/douban/  上游客户端：榜单目录、缓存、请求间隔、规范化、图片获取
+src/internal/mcp/     MCP 工具和 JSON-RPC 处理（与传输方式无关）
+src/internal/api/     HTTP 路由、鉴权、图片代理、/api/mcp
+deploy/               compose 文件和环境变量模板
+scripts/              构建和在线冒烟测试
 ```
 
 ## 参与贡献

@@ -55,8 +55,8 @@ any MCP client.
 Requirements: Go 1.26+ (or Docker).
 
 ```bash
-go run ./cmd/mcp-douban                       # :8800, no auth
-API_TOKENS=s3cret PUBLIC_URL=https://douban.example.com go run ./cmd/mcp-douban
+go run ./src/cmd/mcp-douban                       # :8800, no auth
+API_TOKENS=s3cret PUBLIC_URL=https://douban.example.com go run ./src/cmd/mcp-douban
 ```
 
 Docker:
@@ -157,18 +157,18 @@ Over stdio there is no image proxy, so `poster_proxy` is omitted.
 ## Develop
 
 ```bash
-go test -race ./...            # offline: recorded Douban responses in internal/douban/testdata
+go test -race ./...            # offline: recorded Douban responses in src/internal/douban/testdata
 scripts/smoke.sh               # live: a running instance against real Douban
 scripts/build.sh linux/amd64   # static binaries in dist/
 ```
 
 ```text
-cmd/mcp-douban/    entry point: HTTP server, `stdio`, `version`
-internal/douban/   upstream client: charts catalogue, cache, request spacing, normalisation, image fetch
-internal/mcp/      MCP tools and JSON-RPC handling (transport-agnostic)
-internal/api/      HTTP routes, auth, image proxy, /api/mcp
-deploy/            compose file and env template
-scripts/           build and live smoke test
+src/cmd/mcp-douban/   entry point: HTTP server, `stdio`, `version`
+src/internal/douban/  upstream client: charts catalogue, cache, request spacing, normalisation, image fetch
+src/internal/mcp/     MCP tools and JSON-RPC handling (transport-agnostic)
+src/internal/api/     HTTP routes, auth, image proxy, /api/mcp
+deploy/               compose file and env template
+scripts/              build and live smoke test
 ```
 
 ## Contributing

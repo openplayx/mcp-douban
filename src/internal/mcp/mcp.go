@@ -18,7 +18,7 @@ import (
 	"net/http"
 	"slices"
 
-	"github.com/openplayx/mcp-douban/internal/douban"
+	"github.com/openplayx/mcp-douban/src/internal/douban"
 )
 
 // Versions are the protocol versions this server speaks, newest first.

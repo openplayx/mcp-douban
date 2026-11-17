@@ -28,9 +28,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/openplayx/mcp-douban/internal/api"
-	"github.com/openplayx/mcp-douban/internal/douban"
-	"github.com/openplayx/mcp-douban/internal/mcp"
+	"github.com/openplayx/mcp-douban/src/internal/api"
+	"github.com/openplayx/mcp-douban/src/internal/douban"
+	"github.com/openplayx/mcp-douban/src/internal/mcp"
 )
 
 var version = "dev"
